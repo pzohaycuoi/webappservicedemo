@@ -271,6 +271,7 @@
     <Content Include="Content\bootstrap-grid.css.map" />
     <None Include="Properties\PublishProfiles\app.pubxml" />
     <None Include="Properties\PublishProfiles\eShopLegacyWebForms20221215164013 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\eShopLegacyWebForms20221215174418 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
