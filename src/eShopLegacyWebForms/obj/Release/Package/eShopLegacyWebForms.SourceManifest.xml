@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="C:\Users\namng\Source\Repos\pzohaycuoi\webappservicedemo\src\eShopLegacyWebForms\obj\Release\Package\PackageTmp" />
-  <setAcl path="C:\Users\namng\Source\Repos\pzohaycuoi\webappservicedemo\src\eShopLegacyWebForms\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="C:\Users\namng\Source\Repos\pzohaycuoi\webappservicedemo\src\eShopLegacyWebForms\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <IisApp path="C:\test\eShopLegacyWebFormsSolution\src\eShopLegacyWebForms\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\test\eShopLegacyWebFormsSolution\src\eShopLegacyWebForms\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\test\eShopLegacyWebFormsSolution\src\eShopLegacyWebForms\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
 </sitemanifest>
